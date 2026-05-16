@@ -21,18 +21,13 @@ I am Precious Dianne Brecia, a BS Information Technology student with an interes
 
 ## Skill Sets
 ### Programming
-- Java
-- JavaScript
-
+- Java and JavaScript
 ### Databases
 - IBM DB2 Cloud
-
 ### Tools
 - Lucidchart
-- Jaspersoft Studio
 - Eclipse
 - HTML
-
 ---
 
 ## Connect with Me
