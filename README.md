@@ -7,7 +7,6 @@ I am Precious Dianne Brecia, a BS Information Technology student with an interes
 
 ## Education
 **BS Information Technology**  
-:contentReference[oaicite:0]{index=0}  
 2024 - Present
 
 ---
